@@ -2,4 +2,4 @@
 
 # this is first GITHUB class
 
-# this is the development branch
+# this is the feature branch
