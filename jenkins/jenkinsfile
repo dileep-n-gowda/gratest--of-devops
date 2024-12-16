@@ -13,7 +13,7 @@ pipeline {
     stages {
         stage('Git Checkout') {
             steps {
-                git branch: 'iac', url: 'https://github.com/ManojKRISHNAPPA/career-devops-micro.git'
+                git branch: 'iac', url: 'https://github.com/dileep-n-gowda/gratest--of-devops.git'
             }
         }
 
